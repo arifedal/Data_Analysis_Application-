@@ -45,4 +45,4 @@ This project is licensed under the [License Name] License - see the [LICENSE.md]
 - [Library Name]: For providing functionality for graph visualization.
 - [Map API]: For displaying maps and location data.
 
-## Note: Code and screenshots are kept confidential due to confidentiality requirements.
+## Note: Code and screenshots are kept confidential due to confidentiality requirements. The project exists as private.
