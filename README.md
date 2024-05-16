@@ -3,7 +3,7 @@
 # Data Analysis Application
 
 ## Description
-[Project Name] is a desktop application developed in Python using QtDesigner. It allows users to import data from their computer and visualize it through customizable graphs. The application provides features to analyze data between selected dates or for a specific date, offering various graph types to choose from. Users can save generated graphs and analyze past locations on a map. Additionally, movement or data for selected dates is highlighted on the application's calendar.
+Data Analysis Application is a desktop application developed in Python using QtDesigner. It allows users to import data from their computer and visualize it through customizable graphs. The application provides features to analyze data between selected dates or for a specific date, offering various graph types to choose from. Users can save generated graphs and analyze past locations on a map. Additionally, movement or data for selected dates is highlighted on the application's calendar.
 
 ## Features
 - Import data from the computer
